@@ -1,0 +1,19 @@
+PACKAGE_ID        = 0x03881a736ae6b9d9126308a04f1c0a4cc631dbbc938b11b1e3a1a5217a8aec1b
+AccessRegistry    = 0x7fc2b87f7c6d52fec66b4c760d8148fcae44fd472177359d390f2ec6bf3864fb
+IdentityRegistry  = 0x6d352265d70e933b5638b3f0369b752f5080b29290e75435fb8a4dee2ed8371c
+PolicyRegistry    = 0x90b1c52eb2cc307ad2f345409d8f6ef9365221ef75a6a92a8d25a419881031b0
+ClaimRegistry     = 0x29862b1b9c55f6ec399666263e429299ba18eca85d3ece80f00756badf95438a
+AdminCap          = 0x3c60aa27a24309adda5b06e28a1c66940ebe48c73d573fd77b321e5af2bb174f   (στη διεύθυνσή σου)
+UpgradeCap        = 0xd9a2235233219589a818bdc701c9d7b8ea1a820ef90b390dc5cf0bbcae5c0bfe   (στη διεύθυνσή σου)
+InsurerCap = 0xda9dd604180941bad5fbeb0e3c7e1bddc4322940a56525788929f1176913fb3c
+
+InsurerCap   (role 1) = 0xda9dd604180941bad5fbeb0e3c7e1bddc4322940a56525788929f1176913fb3c
+AgentCap     (role 2) = 0x912f7d596e426d0fca788faff39e691405ccb1f71490eb23ea41a9df0efc9cc0
+KYCProvider  (role 3) = 0x075d8a8827a7ee145b0ae6e566b97aaba29c9d8288414183619f11d7eed3d3a8
+AssessorCap  (role 4) = 0xcc8b2c1bbc419eb66aac58aff52331e1fd30a88847cad3b866beac2645cba833
+
+Policy                = 0xac17c24e5a549d1aa0062fa4238b6bb012a748b4392b9bb4f002cfb3a2e90193
+ComplianceAttestation = 0x8955ff7f2de0e1acd690d93e9962bd6411f1652231c3d1c04b749ab4e3ae9048
+ConsentReceipt        = 0xff6c293a2572d560cf416f16d9cf0029787ab75d15ab8301a9802f51f4e15e4b
+
+EscrowVault<SUI> = 0x37cdccdd9f3edf0c2d7011f2cc8a9550afcde45b14560c617ce761c6c4421b45

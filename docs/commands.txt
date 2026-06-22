@@ -1,0 +1,3 @@
+cd ~/dev/veridis            # ή όπου το αποθήκευσες
+chmod +x veridis-happy-path.sh
+./veridis-happy-path.sh

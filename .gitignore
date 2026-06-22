@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Indexer runtime data & local env
+indexer/data/
+**/.env
+.env
+
+# Move build artifacts
+contracts/build/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log

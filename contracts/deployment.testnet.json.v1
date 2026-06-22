@@ -1,0 +1,10 @@
+{
+  "network": "testnet",
+  "packageId": "0x03881a736ae6b9d9126308a04f1c0a4cc631dbbc938b11b1e3a1a5217a8aec1b",
+  "accessRegistry": "0x7fc2b87f7c6d52fec66b4c760d8148fcae44fd472177359d390f2ec6bf3864fb",
+  "identityRegistry": "0x6d352265d70e933b5638b3f0369b752f5080b29290e75435fb8a4dee2ed8371c",
+  "policyRegistry": "0x90b1c52eb2cc307ad2f345409d8f6ef9365221ef75a6a92a8d25a419881031b0",
+  "claimRegistry": "0x29862b1b9c55f6ec399666263e429299ba18eca85d3ece80f00756badf95438a",
+  "adminCap": "0x3c60aa27a24309adda5b06e28a1c66940ebe48c73d573fd77b321e5af2bb174f",
+  "upgradeCap": "0xd9a2235233219589a818bdc701c9d7b8ea1a820ef90b390dc5cf0bbcae5c0bfe"
+}
